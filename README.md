@@ -3,7 +3,7 @@
     Implicit Moving Least Squares and Marching Squares
   </h1>
   <p>
-    <a href=https://mhsung.github.io/kaist-cs479-spring-2025/ target="_blank"><b>KAIST CS479: Machine Learning for 3D Data</b></a><br>
+    <a href=https://3dml.kaist.ac.kr/ target="_blank"><b>KAIST CS479: Machine Learning for 3D Data</b></a><br>
     Programming Assignment 4
   </p>
 </div>
@@ -28,14 +28,14 @@ In this assignment, we address these limitations by converting raw point clouds 
 
 ## Setup
 
-This assignment uses pytorch, numpy and matplotlib only. You can use the setup from assignment 3.
+This assignment uses pytorch, numpy and matplotlib only. You can use the setup from assignment 1.
 ```
-conda activate cs479-gs
+conda activate pointnet
 ```
 
-You can install matplotlib by the following command
+You can install pickle by the following command
 ```
-pip install matplotlib
+pip install pickle
 ```
 
 
